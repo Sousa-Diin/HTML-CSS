@@ -1,2 +1,2 @@
 # HTML-CSS
- copy do site  do curso em video
+ replica do site  do curso em video
